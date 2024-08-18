@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636772553879",
+    "project_id": "login-register-ec1ce",
+    "storage_bucket": "login-register-ec1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636772553879:android:317e149faa1846f91605d2",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqU09s4axfRIE7hPSVZ1UYvYh0GcueMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636772553879:android:813df1c5ff0e60b01605d2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqU09s4axfRIE7hPSVZ1UYvYh0GcueMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
